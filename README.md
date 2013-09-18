@@ -1,7 +1,7 @@
 Factuality Module 
 ==================
 
-This module is developed for the NewsReade project[1] and aims to classify whether statements in a text are factual (have happened or haven't happened), probable, possible or underspecified. 
+This module is developed for the NewsReader project[1] and aims to classify whether statements in a text are factual (have happened or haven't happened), probable, possible or underspecified. 
 
 To train the classifier, data from FactBank v1 was used [2] and Mallet 2.0.7[3] to generate a model for machine learning. 
 
